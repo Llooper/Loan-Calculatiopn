@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Loan Calculation</string>
+    <string name="commercial_Loan">Commercial Loan</string>
+    <string name="provident_fund_loan">ProvidentFund Loan</string>
+    <string name="combination_loan">Combination Loan</string>
+    <string name="back_button">Back</string>
+    <string name="commercial_Loan_amount">Commercial amount(Ten thousand)</string>
+    <string name="calculation_method">Calculation method</string>
+    <string name="by_amount">ByAmount</string>
+    <string name="by_area">ByArea</string>
+    <string name="actual_commercial_loan_rate">Commercial rate (%)</string>
+    <string name="loan_term">Loan term (years)</string>
+    <string name="area_square_meters">Area (square meters)</string>
+    <string name="unit_price">Price (yuan/square meter)</string>
+    <string name="down_payment_ratio">Down payment ratio</string>
+    <string name="Total_Provident_Fund_Loan">Fund amount(Ten thousand)</string>
+    <string name="actual_provident_fund_loan_rate">Fund rate (%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="input_amount">Amount</string>
+    <string name="input_area">Area</string>
+    <string name="input_price">Price</string>
+    <string name="select">Select</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="percent">Percent</string>
+    <string name="percent_symbol">%</string>
+    <string name="year">Year</string>
+    <string name="monthly_repayment">Monthly repayment (yuan)</string>
+    <string name="total_repayment">Total repayment (Ten thousand)</string>
+    <string name="total_interest">Total interest (ten thousand)</string>
+    <string name="first_month_repayment">First month repayment (yuan)</string>
+    <string name="monthly_decrease">Monthly Decrease</string>
+    <string name="basic_information">Basic Information</string>
+    <string name="equal_interest">Equal interest</string>
+    <string name="equal_principal">Equal principal</string>
+    <string name="total_loan_amoun">Total Loan amount (Ten thousand)</string>
+    <string name="term">Term</string>
+    <string name="calculate_result">Calculation results</string>
+    <string name="settings">Settings</string>
+    <string name="commercial_loan_rate_baseline">Commercial loan rate baseline</string>
+    <string name="fund_loan_rate_baseline">Fund loan rate baseline</string>
+
+</resources>
